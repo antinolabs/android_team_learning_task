@@ -22,6 +22,7 @@ class MainActivity : AppCompatActivity() {
 
     -> This is called field injection.
      */
+
     @Inject
     lateinit var demo: Demo
 
